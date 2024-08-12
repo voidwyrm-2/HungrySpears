@@ -1,0 +1,11 @@
+﻿{
+	"id": "nc.HungrySpears",
+	"name": "Hungry Spears",
+	"version": "1.0.0",
+	"authors": "Nuclear Pasta",
+	"description": "Makes all spears give you food when you hit a creature",
+	"checksum_override": false,
+	"requirements": [],
+	"requirements_names": [],
+	"tags": []
+}
